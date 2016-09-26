@@ -1,11 +1,8 @@
 #include<stdio.h>
-#include<stdlib.h>// para el atof y para el atoi
-#include "calc.h"
+#include<stdlib.h>
+#include"calc.h"
 
 #define MAXIMOOPERADOR 100
-//#define NUMBER '0'
-
-// calculadora polaca inversa.
 
 int main(){
    int tipo;
